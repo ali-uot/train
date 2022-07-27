@@ -6,6 +6,8 @@
   </b>
   </div>
 <br />
+<div style="text-align:right;">
 1- db/config.php (ربط مع قاعدة البيانات) <br />
 2- a.php (users استعلام عن الاسماء في جدول) <br />
 3- index.php?id=2 (users استعلام عن ثاني اسم في جدول) <br />
+</div>
