@@ -1,11 +1,8 @@
 # train
 <br />
 <style>
-#title{
-font-size:20px;  
-}
-</style>
-<div id="title">
+
+<div style="font-size:20px;">
 برنامج الاستعلام من قاعدة البيانات
 فيه 3 ملفات فقط
 </div>
