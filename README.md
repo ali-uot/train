@@ -1,11 +1,10 @@
 # train
 <br />
-<style>
-
-<div style="font-size:20px;">
+<div style="font-size:20px;"><b>
 برنامج الاستعلام من قاعدة البيانات
 فيه 3 ملفات فقط
-</div>
+  </b>
+  </div>
 <br />
 1- db/config.php (ربط مع قاعدة البيانات) <br />
 2- a.php (users استعلام عن الاسماء في جدول) <br />
