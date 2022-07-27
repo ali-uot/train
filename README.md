@@ -1,7 +1,14 @@
 # train
 <br />
+<style>
+#title{
+font-size:20px;  
+}
+</style>
+<div id="title">
 برنامج الاستعلام من قاعدة البيانات
 فيه 3 ملفات فقط
+</div>
 <br />
 1- db/config.php (ربط مع قاعدة البيانات) <br />
 2- a.php (users استعلام عن الاسماء في جدول) <br />
